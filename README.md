@@ -13,6 +13,11 @@ Luego, instalar las librerías requeridas:
 pip install -r requirements.txt
 ```
 
+Agregar kernel de entorno virtual a jupyter notebook
+```
+python -m ipykernel install --user --name fusa-berlin --display-name fusa-berlin
+```
+
 ## Ejecución
 ```
 jupyter notebook Enviar datos a FuSA.ipynb
