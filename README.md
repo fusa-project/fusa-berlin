@@ -17,5 +17,4 @@ pip install -r requirements.txt
 ```
 jupyter notebook Enviar datos a FuSA.ipynb
                  Explorar datos de FuSA.ipynb
-                 Testing torch-serve FuSA.ipynb
 ```
